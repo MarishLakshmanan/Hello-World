@@ -1,2 +1,2 @@
 # Hello-World
-This is my first Repositary
+This is an edited Readme just read it yourself
